@@ -841,6 +841,7 @@ fieldset[disabled] .btn-danger.active {
 .cAc-single-page .full-img{
 	max-height: 20vh;
 	overflow: hidden;
+	min-height: 150px;
 }
 
 .cAc-single-page .full-img img {
