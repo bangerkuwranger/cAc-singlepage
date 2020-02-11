@@ -633,6 +633,7 @@ fieldset[disabled] .btn-danger.active {
 
 .cAc-single-page  p.horizontalCenter {
     margin: 1ch auto;
+    line-height: 1.1;
 }
 
 .cAc-single-page preheader .social-icon {
