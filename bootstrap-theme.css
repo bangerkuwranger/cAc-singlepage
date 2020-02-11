@@ -615,9 +615,35 @@ fieldset[disabled] .btn-danger.active {
     z-index: 10;
 }
 
+.cAc-single-page .bold {
+	font-weight: 700;
+}
+
+.cAc-single-page .italic {
+	font-style: italic;
+}
+
+.cAc-single-page  p.horizontalCenter {
+    margin: 1ch auto;
+}
+
+.cAc-single-page preheader {
+	background-color: #FFFFFF;
+	opacity: 0.8;
+}
+
+.cAc-single-page preheader:hover,
+.cAc-single-page preheader.atRest {
+	opacity: 1;
+}
+
+.cAc-single-page preheader .social-icon {
+    display: inline-block;
+    margin: 0 0.5em;
+}
+
 .cAc-single-page preheader .row img {
     max-height: 2em;
-    margin-top: 0.5em;
 }
 
 .cAc-single-page header {
