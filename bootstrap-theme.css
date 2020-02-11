@@ -613,6 +613,14 @@ fieldset[disabled] .btn-danger.active {
     width: 100%;
     top: 0px;
     z-index: 10;
+    background-color: #FFFFFF;
+	opacity: 0.8;
+	transition: all 0.5s ease-out;
+}
+
+.cAc-single-page preheader:hover,
+.cAc-single-page preheader.atRest {
+	opacity: 1;
 }
 
 .cAc-single-page .bold {
@@ -625,16 +633,6 @@ fieldset[disabled] .btn-danger.active {
 
 .cAc-single-page  p.horizontalCenter {
     margin: 1ch auto;
-}
-
-.cAc-single-page preheader {
-	background-color: #FFFFFF;
-	opacity: 0.8;
-}
-
-.cAc-single-page preheader:hover,
-.cAc-single-page preheader.atRest {
-	opacity: 1;
 }
 
 .cAc-single-page preheader .social-icon {
@@ -948,6 +946,10 @@ fieldset[disabled] .btn-danger.active {
 	
 	.cAc-single-page preheader .row img {
 		max-height: 4em;
+	}
+	
+	.cAc-single-page  p.horizontalCenter {
+		margin: 3ch auto;
 	}
 	
 	.cAc-single-page content {
