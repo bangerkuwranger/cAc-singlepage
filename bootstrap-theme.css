@@ -773,7 +773,7 @@ fieldset[disabled] .btn-danger.active {
     padding: inherit;
     vertical-align: inherit;
     display: inline;
-    margin: 0;
+    margin: 0 !important;
 }
 
 #mc_embed_signup input#mc-embedded-subscribe:focus,
