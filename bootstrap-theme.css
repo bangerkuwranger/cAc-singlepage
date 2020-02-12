@@ -727,12 +727,22 @@ fieldset[disabled] .btn-danger.active {
 	text-align: left;
 }
 
+#onboardingForm {
+	padding-top: 4em;
+}
+
 #mc_embed_signup { 
 	background: transparent;
 	clear: both;
 	font-size:14px; 
 	width:100%; 
 	margin: 0 0 3em;
+	position: relative;
+	top: -3em;
+}
+
+#mc_embed_signup form {
+	top: 0;
 }
 
 #mc_embed_signup .mc-field-group label {
