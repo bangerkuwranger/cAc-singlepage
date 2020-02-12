@@ -756,6 +756,13 @@ fieldset[disabled] .btn-danger.active {
 
 #mc_embed_signup input.submit {
 	color: #FFFFFF;
+	background-color: transparent;
+    font-size: inherit;
+    height: auto;
+    line-height: 1;
+    padding: inherit;
+    vertical-align: inherit;
+    display: inline;
 }
 
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
