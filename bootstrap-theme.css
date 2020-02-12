@@ -766,6 +766,13 @@ fieldset[disabled] .btn-danger.active {
     margin: 0;
 }
 
+#mc_embed_signup input#mc-embedded-subscribe:focus,
+#mc_embed_signup input#mc-embedded-subscribe:hover,
+#mc_embed_signup input#mc-embedded-subscribe:active {
+    border-color: transparent;
+    background-color: transparent;
+}
+
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
 	font-weight: 200;
 }
