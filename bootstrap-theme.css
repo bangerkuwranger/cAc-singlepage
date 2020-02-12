@@ -746,7 +746,7 @@ fieldset[disabled] .btn-danger.active {
 }
 
 #mc_embed_signup .mc-field-group {
-	margin-bottom: 4px;
+	padding-bottom: 4px;
 }
 
 #mc_embed_signup .mc-field-group label {
