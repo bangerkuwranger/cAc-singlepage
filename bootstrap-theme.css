@@ -745,6 +745,10 @@ fieldset[disabled] .btn-danger.active {
 	top: 0;
 }
 
+#mc_embed_signup .mc-field-group {
+	margin-bottom: 4px;
+}
+
 #mc_embed_signup .mc-field-group label {
     min-width: 18ch;
 }
