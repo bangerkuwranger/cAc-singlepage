@@ -763,6 +763,7 @@ fieldset[disabled] .btn-danger.active {
     padding: inherit;
     vertical-align: inherit;
     display: inline;
+    margin: 0;
 }
 
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
